@@ -1,0 +1,7 @@
+Angel Santiago Salazar Segura
+
+03/02/2026
+
+Esta actividad tiene el objetivo el realizar un acercamiento a lo que son los repositorios en git, creacion de branches y realización de pull request.
+
+¿Qué es una pull request? Es la solicitud que hacemos para que una branch se una a otra branch, es decir que proponemos los cambios que realizamos para que se agreguen ya sea al proyecto principal(main) o alguna otra branch.
